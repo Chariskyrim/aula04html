@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.desafio{
+    color:orange
+}
+
+#lista1 {
+    color: #00f;
+    background-color: rgb(224, 157, 11);
+    text-align: left;
+}
+
+#lista2 {
+    color: #00f;
+    background-color: rgb(117, 27, 212);
+    text-align: left;
+}
